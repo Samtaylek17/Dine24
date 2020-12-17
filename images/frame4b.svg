@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1400px" height="499px" viewBox="0 0 1400 499" version="1.1">
+  <defs>
+    <path d="M0 0C211.365405 0 126.349607 164.541685 234.519047 164.492208 342.688487 164.442732 374.930838 164.492208 454.810455 164.492208 603.218516 164.492208 542.347301 331.320129 638.043243 331.320129L809.721148 331.320129C940.263934 331.320129 850.792427 464.521297 1003.36557 464.521297 1018.52403 464.521297 1021.66702 464.300365 1053.31205 464.521297 1240.42264 465.827623 1063.69655 197.365965 1285.94234 197.365965L1400.15725 197.365965 1400.15725 498.031008 0 498.031008 0 0Z" id="path-1"/>
+  </defs>
+  <g id="Design" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="F00_home-5" transform="translate(0.000000, -401.000000)">
+      <g id="Group-11" transform="translate(-16.000000, 401.000000)">
+        <g id="Group-6">
+          <g id="Group-7" transform="translate(15.801105, 0.000000)">
+            <mask id="mask-2" fill="white">
+              <use xlink:href="#path-1"/>
+            </mask>
+            <use id="Mask" fill="#676B73" xlink:href="#path-1"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

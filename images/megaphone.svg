@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57" height="46" viewBox="0 0 57 46" version="1.1">
+  <defs>
+    <path d="M15.83 37.4L18.91 46.16C19.46 47.73 18.57 49 16.91 49L12.5 49C10.84 49 9.02 47.76 8.42 46.21L4.28 35.53" id="path-1"/>
+    <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="14.8" height="13.47" fill="white">
+      <use xlink:href="#path-1"/>
+    </mask>
+    <path d="M0 0L47 0 47 51 0 51 0 0ZM40 5L40 47 47 47 47 5 40 5ZM7 14L7 37 14 37 14 14 7 14Z" id="path-3"/>
+    <path d="M43 25.5L43 6.41C43 3.1 40.84 2 38.17 3.96 38.17 3.96 36.01 6.03 29 9.45 23.7 12.29 14.76 16.81 12.97 17.47 11.18 18.14 10 17.47 10 17.47L10 25.5 10 32.53C10 32.53 11.15 32.85 12.97 33.53 14.8 34.21 23.73 38.73 29 41.55 36.01 44.97 38.17 47.04 38.17 47.04 40.84 49 43 47.9 43 44.59L43 25.5Z" id="path-5"/>
+    <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="33" height="45.02" fill="white">
+      <use xlink:href="#path-5"/>
+    </mask>
+    <ellipse id="path-7" cx="40.5" cy="25.5" rx="6.5" ry="22.5"/>
+    <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="13" height="45" fill="white">
+      <use xlink:href="#path-7"/>
+    </mask>
+    <path d="M0 22.99C0 19.68 2.68 17 5.99 17L15 17C15 17 13 21.55 13 25.7 13 29.86 15 34 15 34L5.99 34C2.68 34 0 31.31 0 28.01L0 22.99Z" id="path-9"/>
+    <mask id="mask-10" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="15" height="17" fill="white">
+      <use xlink:href="#path-9"/>
+    </mask>
+  </defs>
+  <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g id="WE-PUT-YOU-EVERYWHERE--✓" transform="translate(-51.000000, -22.000000)">
+      <g id="MEGAPHONE" transform="translate(51.000000, 19.000000)">
+        <use id="Rectangle-20" stroke="#1C1C1C" mask="url(#mask-2)" stroke-width="4" stroke-linecap="square" xlink:href="#path-1"/>
+        <g id="Group-39">
+          <mask id="mask-4" fill="white">
+            <use xlink:href="#path-3"/>
+          </mask>
+          <g id="Combined-Shape" opacity="0.4"/>
+          <g id="Combined-Shape" mask="url(#mask-4)" stroke-linecap="square" stroke-width="4" stroke="#1C1C1C">
+            <use mask="url(#mask-6)" xlink:href="#path-5"/>
+          </g>
+        </g>
+        <use id="Oval-6" stroke="#1C1C1C" mask="url(#mask-8)" stroke-width="4" stroke-linecap="square" xlink:href="#path-7"/>
+        <g id="Group-21-Copy-2" transform="translate(50.000000, 15.000000)" fill="#27A2C4">
+          <rect id="Rectangle-19" x="1.27" y="10" width="5.73" height="2" rx="1"/>
+          <rect id="Rectangle-19-Copy" transform="translate(3.181818, 19.000000) rotate(-330.000000) translate(-3.181818, -19.000000) " x="0.64" y="18" width="5.09" height="2" rx="1"/>
+          <rect id="Rectangle-19-Copy-2" transform="translate(3.181818, 3.000000) scale(1, -1) rotate(-330.000000) translate(-3.181818, -3.000000) " x="0.64" y="2" width="5.09" height="2" rx="1"/>
+        </g>
+        <use id="Rectangle-41" stroke="#1C1C1C" mask="url(#mask-10)" stroke-width="4" stroke-linecap="square" xlink:href="#path-9"/>
+      </g>
+    </g>
+  </g>
+</svg>
